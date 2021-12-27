@@ -1,0 +1,43 @@
+ul li:first-child{
+		margin-top: 25px;
+}
+.kursy ul li{list-style: none;}
+#lewy{background-color: #8c74b8;
+    width: 280px;
+    height: 169px;
+    border: 3px solid #2a1d40;
+    margin-right: 60px;
+	margin-bottom: 25px;
+	overflow: auto;
+    float: right;}
+#lewy p{
+	text-align: left;
+	text-align: center;
+	text-decoration: underline;
+	font-weight: bold;
+}
+#lewy ul li{
+	list-style: none;
+	
+}
+#prawy{background-color: #c2a488;
+    color: black;
+    width: 250px;
+    height: auto;
+	text-align: left;
+	margin-left: 25px;
+	padding-right: 20px;
+    border: 3px solid #572506;
+    clear: left;}
+#prawy p{
+	text-align: left;
+	text-align: center;
+	text-decoration: underline;
+	font-weight: bold;
+}
+#lewy ul li{
+	list-style: square;
+}
+#lewy h4{
+	padding-left: 5px;
+}
